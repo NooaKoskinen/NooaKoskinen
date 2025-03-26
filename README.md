@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NooaKoskinen
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, C++, JavaScript, MySQL and React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C++, JavaScript, MySQL and HTML.
 - 📫 How to reach me: email nooa.m.koskinen@gmail.com
 - ⚡ Fun fact: I have played volleyball for a long time.
 
